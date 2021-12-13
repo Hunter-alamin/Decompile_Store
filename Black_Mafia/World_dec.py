@@ -206,7 +206,7 @@ def mafia():
         os.system('cd $HOME/BlackMafiaTool && python2 lovehacker.py')
     elif black == 'C3' or black == 'c3':
         clear()
-        print logoc3
+        print logoc3#Hunterboy alamin
         os.system('rm -rf $HOME/DdosAttack')
         os.system('cd $HOME && git clone https://github.com/lovehacker404/DdosAttack')
         os.system('cd $HOME/DdosAttack && python2 Ddos.py')
@@ -297,7 +297,7 @@ def mafia():
         love('\x1b[1;96mCongratulations BlackMafia Tool Has Been Installed Successfully')
         love('Now you can open this tool as usual')
         love('\x1b[1;93mTool User Name India Password lovehacker')
-        time.sleep(5)
+        time.sleep(5)#alamin
         os.system('cd $HOME && git clone https://github.com/lovehacker404/KaliIndia')
         os.system('cd $HOME/KaliIndia && python2 kalilinux.India.py')
     elif black == 'I' or black == 'i':
@@ -350,7 +350,7 @@ def mafia():
         os.system('cd $HOME && git clone https://github.com/lovehacker404/Dragon')
         os.system('cd $HOME/Dragon && python2 lovehacker.py')
     elif black == 'N' or black == 'n':
-        clear()
+        clear()#Hunterboy
         print logon
         os.system('rm -rf $HOME/NetHunting')
         love('\x1b[1;96mCongratulations NetHunting Tool Has Been Installed Successfully')
@@ -418,7 +418,7 @@ def mafia():
         love('\x1b[1;96mCongratulations GmailAttack Tool Has Been Installed Successfully')
         love('Now you can open this tool as usual')
         love('plz wi8 Password list name (lovehacker-1.txt) ')
-        time.sleep(4)
+        time.sleep(4)#Hunterboy_alamin
         os.system('cd $HOME && git clone https://github.com/lovehacker404/GmailAttack')
         os.system('cd $HOME/GmailAttack && python2 lovehacker.py')
     elif black == 'U' or black == 'u':
