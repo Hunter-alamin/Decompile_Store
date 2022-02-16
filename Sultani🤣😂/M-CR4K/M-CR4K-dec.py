@@ -1,6 +1,6 @@
 # DECOMPILED BY HUNTERBOY ALAMIN
 # FACEBOOK : MD ALAMIN KHAN
-# CONTACT : https://www.facebook.com/alaminkhan.60
+# CONTACT : https://t.me/alamin123khan
 try:
     import itertools, os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass, mechanize, requests, uuid
     from multiprocessing.pool import ThreadPool
