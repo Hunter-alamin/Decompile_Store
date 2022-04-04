@@ -1,4 +1,5 @@
 # Fuck Sultani
+# DECOMPILED BY HUNTERBOY ALAMIN
 
 try:
     import os, sys, time, datetime, re, random, hashlib, threading, json, getpass, urllib, cookielib, requests, uuid
